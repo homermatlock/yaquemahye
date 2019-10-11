@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kithoighoh.8xx8.ru/sitemap.xml
